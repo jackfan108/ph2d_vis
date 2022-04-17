@@ -1,0 +1,13 @@
+{
+  "name": "ph2d_vis",
+  "version": "1.0.0",
+  "description": "skip",
+  "main": "index.js",
+  "repository": "git@github.com:jackfan108/ph2d_vis.git",
+  "author": "Jack Fan <jack.fan@airbnb.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cytoscape": "^3.21.1"
+  }
+}
